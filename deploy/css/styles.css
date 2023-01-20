@@ -352,6 +352,10 @@ template {
 /* =============
     Base
 ============= */
+body {
+  background-color: lime;
+}
+
 /* =============
     Typography
 ============= */
