@@ -3,3 +3,12 @@
 ============= */
 
 
+body{
+    background-color: red;
+    font-size: 3rem;
+
+    @include lg{
+        background-color: pink;
+    }
+}
+

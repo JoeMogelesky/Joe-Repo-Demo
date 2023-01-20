@@ -1,3 +1,14 @@
 /* =============
     Typography
 ============= */
+
+
+h1{
+    font-size: 2rem;
+    padding: 1rem;
+    color: aqua;
+
+    @include md{
+        font-size: 3rem;
+    }
+}

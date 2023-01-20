@@ -22,6 +22,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/chonker.jpeg" : {
+      "ft" : 16384,
+      "iS" : 43640,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/chonker.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/chonk.png" : {
+      "ft" : 32768,
+      "iS" : 1088557,
+      "oA" : 0,
+      "oAP" : "\/chonk.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -278,7 +304,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 673791564.33405399,
-    "displayValue" : "Joe-Web-2-InClass",
+    "displayValue" : "Joe-Repo-Demo",
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-unblue",
     "iconImageWasSetByUser" : 0

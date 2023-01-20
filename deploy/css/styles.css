@@ -352,9 +352,30 @@ template {
 /* =============
     Base
 ============= */
+body {
+  background-color: red;
+  font-size: 3rem;
+}
+@media (min-width: 992px) {
+  body {
+    background-color: pink;
+  }
+}
+
 /* =============
     Typography
 ============= */
+h1 {
+  font-size: 2rem;
+  padding: 1rem;
+  color: aqua;
+}
+@media (min-width: 768px) {
+  h1 {
+    font-size: 3rem;
+  }
+}
+
 /* =============
     Buttons
 ============= */
